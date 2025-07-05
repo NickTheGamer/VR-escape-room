@@ -1,6 +1,10 @@
+# Dependencies
+
+Requires Unity version 5 and a compatible VR headset
+
 # Escape Room
 
-To whoever is fortunate enough to play my escape room, below ia a brief description of the three puzzles and how to solve them.
+Below ia a brief description of the three puzzles and how to solve them.
 
 1) Firstly, a flashlight can be found in the bottom of the cabinet. This will cause the light in the submarine to go out. The flashlight is needed for the next puzzle.
 
